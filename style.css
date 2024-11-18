@@ -37,12 +37,12 @@ text-shadow: 0 0 5px #000;
     user-select:none;
     cursor:default;
     animation-name:snowflakes-shake;
-    animation-duration:3s;
+    animation-duration:5s;
     animation-timing-function:ease-in-out
 }
 
 .snowflake .inner {
-    animation-duration:10s;
+    animation-duration:12s;
     animation-name:snowflakes-fall;
     animation-timing-function:linear
 }
